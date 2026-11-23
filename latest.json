@@ -1,8 +1,8 @@
 {
   "version": "1.1.1",
   "bundle": "bundle.json.gz",
-  "sha256": "2ab8e1fb02169c937993a6881e39fd352f056ee4bf35e14bae664fb5ec0d9a50",
-  "sig": "lG9pnU1uLEqeFNQH3uhAWZy9N8tJZyxSC1TrPz4SLkTM6CV6j62g1cN1RwMuTFT1hcahzDI31qTLe+jMLSFADg==",
+  "sha256": "0a0574a398f5a9a1eb6789d5f8acac26c44eb95a9cafa8599f19114ee5a2fb0b",
+  "sig": "tF7lWXEO7HF9ajobfC/jRE5yvBWITfnq1ESQ8xFAhuAAaOVjTism5K1OqGNlqf57ygWNXM7UP+WSXgMwBkVRCA==",
   "notes": "First online update",
-  "released_at": "2026-11-23T19:42:09.786Z"
+  "released_at": "2026-11-23T19:48:17.573Z"
 }
