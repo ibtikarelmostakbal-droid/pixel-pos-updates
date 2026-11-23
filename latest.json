@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "bundle": "bundle.json.gz",
-  "sha256": "0a0574a398f5a9a1eb6789d5f8acac26c44eb95a9cafa8599f19114ee5a2fb0b",
-  "sig": "tF7lWXEO7HF9ajobfC/jRE5yvBWITfnq1ESQ8xFAhuAAaOVjTism5K1OqGNlqf57ygWNXM7UP+WSXgMwBkVRCA==",
-  "notes": "First online update",
-  "released_at": "2026-11-23T19:48:17.573Z"
+  "sha256": "270516b9dd5f2e8ed7cfcf50943bd492d0cd35a19b5a91f900ad105f32b6aabb",
+  "sig": "vePljgnfOkAN05Gcehy/yHAQ1THt3xGMEzp+IObWtoQw+OPNg6R3IOOF1xCsWMN2I6cHTB9RN3oUFHi9Bm7YCw==",
+  "notes": "نظام الترخيص",
+  "released_at": "2026-11-23T20:02:14.033Z"
 }
