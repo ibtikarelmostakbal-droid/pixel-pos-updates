@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "bundle": "bundle.json.gz",
-  "sha256": "42dc2552bbd8475713ccf02d5977aa114871e25c64d8d6292909be3f82adf960",
-  "sig": "jdPclKAmxFKvEcRDiQ+TxQRViqbe3A6NcFRO6/nsX8CTmXhGxsdLG50NxDQCKYQKTmipTEIH75l4xSUAe7qoBQ==",
-  "notes": "زر إظهار كلمة السر في ربط المنيو",
-  "released_at": "2026-11-23T22:54:05.022Z"
+  "sha256": "6d90f46a02026a8dca2bb428a341131fe101a206b7983cf7fcb45e7cd7504705",
+  "sig": "NL7Svd+CSYopBJUttFuI/h6xrFlWIUMmPd5rQ0PXBI1qtKxOjcxlIY0nvzdheDq6FAC9wIlh7hhusjA7j4CKAg==",
+  "notes": "خريطة موقع الزبون في طلبات الدلفري",
+  "released_at": "2026-11-23T23:11:06.722Z"
 }
