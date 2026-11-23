@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "bundle": "bundle.json.gz",
-  "sha256": "7ac9bc855c64f2ae6a4b376d071cf0bf5dc20e9e2eb218698f2c900aab585e12",
-  "sig": "6Yt3lbobNputMzs+7rfD7wFGmNghUzbwm83FXA8U7LpIe7rxymsBuEil2aMyqQq+vJNzwy8k8l9U30eMTaShDw==",
-  "notes": "ملخص المالك على واتساب + تحليل ذكي",
-  "released_at": "2026-11-23T22:26:25.291Z"
+  "sha256": "10a02d1290fa76242d01f195fb9848b6df59bf02a7f5b84c1be7051fa5fd9b32",
+  "sig": "/f2tIpCCXviHI2Q0pshh80ZcBWwv57zgN6IfLbUAhzrXD2kg8QeJgQO1oqdBFXmSMF02+3lgk46bVBWexqlUCA==",
+  "notes": "إصلاح لصق الإيميل",
+  "released_at": "2026-11-23T22:46:45.678Z"
 }
