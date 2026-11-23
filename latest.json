@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "bundle": "bundle.json.gz",
-  "sha256": "51ac20014b401786d0733c49cb090934eb60c92f0e78288d5e72526496fded67",
-  "sig": "BviG6sgbMnXOs5qpky2AiXMoRyewT10yPCjkgG7Y2fVGImEjNHSTMSPCAHATDS19HaifSuNxrA+Dmq33WH6VDg==",
-  "notes": "تشفير البيانات + نسخ احتياطي مشفّر",
-  "released_at": "2026-11-23T22:03:16.678Z"
+  "sha256": "7ac9bc855c64f2ae6a4b376d071cf0bf5dc20e9e2eb218698f2c900aab585e12",
+  "sig": "6Yt3lbobNputMzs+7rfD7wFGmNghUzbwm83FXA8U7LpIe7rxymsBuEil2aMyqQq+vJNzwy8k8l9U30eMTaShDw==",
+  "notes": "ملخص المالك على واتساب + تحليل ذكي",
+  "released_at": "2026-11-23T22:26:25.291Z"
 }
