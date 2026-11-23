@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "bundle": "bundle.json.gz",
-  "sha256": "10a02d1290fa76242d01f195fb9848b6df59bf02a7f5b84c1be7051fa5fd9b32",
-  "sig": "/f2tIpCCXviHI2Q0pshh80ZcBWwv57zgN6IfLbUAhzrXD2kg8QeJgQO1oqdBFXmSMF02+3lgk46bVBWexqlUCA==",
-  "notes": "إصلاح لصق الإيميل",
-  "released_at": "2026-11-23T22:46:45.678Z"
+  "sha256": "42dc2552bbd8475713ccf02d5977aa114871e25c64d8d6292909be3f82adf960",
+  "sig": "jdPclKAmxFKvEcRDiQ+TxQRViqbe3A6NcFRO6/nsX8CTmXhGxsdLG50NxDQCKYQKTmipTEIH75l4xSUAe7qoBQ==",
+  "notes": "زر إظهار كلمة السر في ربط المنيو",
+  "released_at": "2026-11-23T22:54:05.022Z"
 }
