@@ -1,0 +1,8 @@
+{
+  "version": "1.1.1",
+  "bundle": "bundle.json.gz",
+  "sha256": "f6e20404d7b494fb9cd1efb64a1f513bb37c019fd1814abec82d2215868fd293",
+  "sig": "vVT4AXn23xVDqKJ/r1a2arkIKR9LjM5g9A4aHqlU8AxJjBse1qYfYuDW7N/JDf22dxyYlbKcyEqIiU271O+mBw==",
+  "notes": "First online update",
+  "released_at": "2026-11-23T19:41:52.450Z"
+}
