@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "bundle": "bundle.json.gz",
-  "sha256": "270516b9dd5f2e8ed7cfcf50943bd492d0cd35a19b5a91f900ad105f32b6aabb",
-  "sig": "vePljgnfOkAN05Gcehy/yHAQ1THt3xGMEzp+IObWtoQw+OPNg6R3IOOF1xCsWMN2I6cHTB9RN3oUFHi9Bm7YCw==",
-  "notes": "نظام الترخيص",
-  "released_at": "2026-11-23T20:02:14.033Z"
+  "sha256": "51ac20014b401786d0733c49cb090934eb60c92f0e78288d5e72526496fded67",
+  "sig": "BviG6sgbMnXOs5qpky2AiXMoRyewT10yPCjkgG7Y2fVGImEjNHSTMSPCAHATDS19HaifSuNxrA+Dmq33WH6VDg==",
+  "notes": "تشفير البيانات + نسخ احتياطي مشفّر",
+  "released_at": "2026-11-23T22:03:16.678Z"
 }
