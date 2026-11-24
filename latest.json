@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "bundle": "bundle.json.gz",
-  "sha256": "94b661c64bea3463759d242748246df515da3a2da56b8fb594488ab79e3ac023",
-  "sig": "1RdxjsFhgVqOVIUQcR27zplUnVOLB2RciZVDwEQuZbIGlHqtKf6FQsAQ+FKlahOARosMHTCOOTCc5z7GC6x4CQ==",
-  "notes": "تدقيق المحاسبة: تحقق الفواتير والمرتجعات وإغلاق الشيفت",
-  "released_at": "2026-11-24T01:24:33.969Z"
+  "sha256": "8f4d1adbb422cc66003fdedd7c497381b52322e5ade18c65e2bf0da0b752e082",
+  "sig": "izTBJzUeVkQbPkzTg72O4yYh37cACCqmA+X9qKbC8eEQ1heW84M7pasVH5Pg530IPe8j+AKuWoRFOW+bwQW7Dw==",
+  "notes": "صياغة النصوص بصيغة محايدة",
+  "released_at": "2026-11-24T01:40:43.608Z"
 }
