@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "bundle": "bundle.json.gz",
-  "sha256": "1d6add331a1e85ec1512b7a5cdd9e8596d4e09f2d5b90cd79f599ccaf4e13e84",
-  "sig": "GmfTZAtq32CYnm5IBS5Fko+7/KgGmtYFnFMSS34wZyXwaxAWnXCYDXBh6/pPFnnlCmwxSwRD0q8PNO8gPh8vCg==",
-  "notes": "إعدادات التوصيل ورسوم التوصيل وتسوية السائقين",
-  "released_at": "2026-11-24T01:17:22.371Z"
+  "sha256": "94b661c64bea3463759d242748246df515da3a2da56b8fb594488ab79e3ac023",
+  "sig": "1RdxjsFhgVqOVIUQcR27zplUnVOLB2RciZVDwEQuZbIGlHqtKf6FQsAQ+FKlahOARosMHTCOOTCc5z7GC6x4CQ==",
+  "notes": "تدقيق المحاسبة: تحقق الفواتير والمرتجعات وإغلاق الشيفت",
+  "released_at": "2026-11-24T01:24:33.969Z"
 }
