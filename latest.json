@@ -1,8 +1,8 @@
 {
-  "version": "1.7.14",
+  "version": "1.7.15",
   "bundle": "bundle.json.gz",
-  "sha256": "3fbb057d7a09ec070c8b483228864c6ebac5bb2ccdd291b73c820d426d5cf6b6",
-  "sig": "r5QlF9xO0Vpjce2/kD98XQQuXU7Qkj7OW9YgX3K04QHkDCC/btAXPzscbGmNd3elL4apkPamL18zceoMCNAQBg==",
-  "notes": "خانات فاضية بدون قيم جاهزة",
-  "released_at": "2026-11-24T20:14:40.543Z"
+  "sha256": "a86705cc42475cc26a0aa140879c99379ba6c51da457df15b14ab6f4af6dad6c",
+  "sig": "mBrkj0++69FiGs1gRlBhHMb1HKgdUK8NeICPSspihuUVLTr1rlx0Z/JQJKOpD7CymdWuUMGrqTNn0UWiLa/+AA==",
+  "notes": "عرض السعر الكامل لكل حجم",
+  "released_at": "2026-11-24T20:18:10.739Z"
 }
