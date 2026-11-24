@@ -1,8 +1,8 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "bundle": "bundle.json.gz",
-  "sha256": "8f4d1adbb422cc66003fdedd7c497381b52322e5ade18c65e2bf0da0b752e082",
-  "sig": "izTBJzUeVkQbPkzTg72O4yYh37cACCqmA+X9qKbC8eEQ1heW84M7pasVH5Pg530IPe8j+AKuWoRFOW+bwQW7Dw==",
-  "notes": "صياغة النصوص بصيغة محايدة",
-  "released_at": "2026-11-24T01:40:43.608Z"
+  "sha256": "7e73990bf1663568b8fbdf417e005111f9032c640b08867232382a3d13718b22",
+  "sig": "04l7UoN+X77ktyV7G9JYriFZwwCsM2JKnXyKZW35cdpt0mpxDYj6b8Cmx5+KjkqxvjnP4MAAEsbo5I7rWFCxBA==",
+  "notes": "صور المنتجات أكبر",
+  "released_at": "2026-11-24T01:43:43.330Z"
 }
