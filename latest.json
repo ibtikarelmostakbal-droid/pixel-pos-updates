@@ -1,8 +1,8 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "bundle": "bundle.json.gz",
-  "sha256": "f617bc48d120e2e0f9adf4f3bb65ad899c80e9e65d0b181ea99370bc67b7e572",
-  "sig": "3y/wDM9aneOexcjb4JVnwwbl4/Z9eNQ5U/Kc12ASlX6yYjI04uMLYD0jFj146aOyqDHtwqMK2kffzoW3unDGCQ==",
-  "notes": "حماية التجربة وتقصيرها",
-  "released_at": "2026-11-24T22:32:54.692Z"
+  "sha256": "7c1c798e8fd8856cb896c71b552265afd4001b3b19e31b5ef27458515d959b70",
+  "sig": "OXQeLHQMhk+p6CD6nBF3ST1/XvYC4ITZMdC5FQ4AQNzn8fkyoIkeaalaX6KohnEIvqh4NPpai+rtCc1yC9m0AQ==",
+  "notes": "صياغة محايدة",
+  "released_at": "2026-11-24T22:49:49.552Z"
 }
