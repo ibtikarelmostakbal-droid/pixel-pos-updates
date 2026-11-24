@@ -1,8 +1,8 @@
 {
-  "version": "1.7.6",
+  "version": "1.7.7",
   "bundle": "bundle.json.gz",
-  "sha256": "5b7af066caa7f3f3bf0a81a6970e16f8a351da407b1b268304cd11f85f97365b",
-  "sig": "ky8LPOnmZQgzQw1NV+26WR2blgw9tq8fZg8c40BRp9GqnUzdtwI9FR5fzurnEhApvOboJt3uyo9R1KtGmU0HBg==",
-  "notes": "حذف نص المثال من خانة الملاحظة",
-  "released_at": "2026-11-24T01:57:20.675Z"
+  "sha256": "1a0a145c483b3044bb9fc0c2d34207d4f1e0e98c59df1926407794bea57753d8",
+  "sig": "X/6Rc9z4D1/1IDnrrpIZnJhdg8ntLw+A0wjwYfpGDAEAYMIGwDXw8ZUoEecgsgaHP+SGWRuEF4ea8cFylplYCQ==",
+  "notes": "ملاحظات للويتر والكيوسك وباركود الطاولة",
+  "released_at": "2026-11-24T02:00:16.281Z"
 }
