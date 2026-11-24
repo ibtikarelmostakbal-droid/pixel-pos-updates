@@ -1,8 +1,8 @@
 {
-  "version": "1.7.13",
+  "version": "1.7.14",
   "bundle": "bundle.json.gz",
-  "sha256": "b329be645a4f64f605d5d0547064dd16aa9de578cb237095671a8a6c58d01acb",
-  "sig": "8EYCXzlR/sablJVcqnw69R5ZF1/5BwPlOQ70nqqKcFoB6S1fW9BHcUz2IckMosQqP+S6lEIU2UHy5TmBsCRLAQ==",
-  "notes": "سعر مخصص لكل حجم",
-  "released_at": "2026-11-24T19:55:48.408Z"
+  "sha256": "3fbb057d7a09ec070c8b483228864c6ebac5bb2ccdd291b73c820d426d5cf6b6",
+  "sig": "r5QlF9xO0Vpjce2/kD98XQQuXU7Qkj7OW9YgX3K04QHkDCC/btAXPzscbGmNd3elL4apkPamL18zceoMCNAQBg==",
+  "notes": "خانات فاضية بدون قيم جاهزة",
+  "released_at": "2026-11-24T20:14:40.543Z"
 }
