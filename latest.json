@@ -1,8 +1,8 @@
 {
-  "version": "1.7.5",
+  "version": "1.7.6",
   "bundle": "bundle.json.gz",
-  "sha256": "5dd36bec99edf9f2d932fdebebdf6b23c7bab35ac1e94df6e623b84f0d01fb28",
-  "sig": "btyfNf2RBkL9RDk9CHdYybSBrxW/0tGoLn9sgLDQ+xAkzGys4SWUmLBON65pw+0eu95jKdo/DjZUdiF3dZRoBA==",
-  "notes": "الملاحظات تظهر للمطبخ",
-  "released_at": "2026-11-24T01:57:05.363Z"
+  "sha256": "5b7af066caa7f3f3bf0a81a6970e16f8a351da407b1b268304cd11f85f97365b",
+  "sig": "ky8LPOnmZQgzQw1NV+26WR2blgw9tq8fZg8c40BRp9GqnUzdtwI9FR5fzurnEhApvOboJt3uyo9R1KtGmU0HBg==",
+  "notes": "حذف نص المثال من خانة الملاحظة",
+  "released_at": "2026-11-24T01:57:20.675Z"
 }
