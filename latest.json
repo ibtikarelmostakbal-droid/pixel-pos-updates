@@ -1,8 +1,8 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "bundle": "bundle.json.gz",
-  "sha256": "7c1c798e8fd8856cb896c71b552265afd4001b3b19e31b5ef27458515d959b70",
-  "sig": "OXQeLHQMhk+p6CD6nBF3ST1/XvYC4ITZMdC5FQ4AQNzn8fkyoIkeaalaX6KohnEIvqh4NPpai+rtCc1yC9m0AQ==",
-  "notes": "صياغة محايدة",
-  "released_at": "2026-11-24T22:49:49.552Z"
+  "sha256": "0dc4306c615492847bd1fc2fb5f22f1981600b69353d0552880469b56595bfe8",
+  "sig": "z2yie40PpjbgAkf1TvQY5Sls0izPtUrpLLn79ouLga+HpFaUOhwkEgO1WEH6S2L9PGlB78ISEW4W/G1Y6CCsBA==",
+  "notes": "توحيد لغة النصوص",
+  "released_at": "2026-11-24T22:53:08.421Z"
 }
