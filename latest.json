@@ -1,8 +1,8 @@
 {
-  "version": "1.7.15",
+  "version": "1.7.16",
   "bundle": "bundle.json.gz",
-  "sha256": "a86705cc42475cc26a0aa140879c99379ba6c51da457df15b14ab6f4af6dad6c",
-  "sig": "mBrkj0++69FiGs1gRlBhHMb1HKgdUK8NeICPSspihuUVLTr1rlx0Z/JQJKOpD7CymdWuUMGrqTNn0UWiLa/+AA==",
-  "notes": "عرض السعر الكامل لكل حجم",
-  "released_at": "2026-11-24T20:18:10.739Z"
+  "sha256": "c75c6f05e2b3768dc6e8dbedaf79604cf9d9161ac72c976057c0fe676f3d0339",
+  "sig": "aZMi+6ol6RT1GfDAvgN9KPdb2QW5VWbdxTA7kBWk1k/4OzVJxixVo+BUu3ful0JB6eBI/hYKsSUuVDAhbvBzBw==",
+  "notes": "أزرار اختيار الحجم",
+  "released_at": "2026-11-24T20:24:00.007Z"
 }
