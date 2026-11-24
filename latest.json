@@ -1,8 +1,8 @@
 {
-  "version": "1.7.8",
+  "version": "1.7.9",
   "bundle": "bundle.json.gz",
-  "sha256": "c9ed400965ea156989ec16f9e10556793302976587fd47dcac1078da5aec14c9",
-  "sig": "cyd99DJoQgMVIIui7C7VAFw2Hhsc6tsl03RWk5lznupLZDF3EO1fi14gPEklMQL2KsIKlQ9zH/6jidVJTUIzCQ==",
-  "notes": "أحجام المنتجات صغير/وسط/كبير",
-  "released_at": "2026-11-24T02:02:32.181Z"
+  "sha256": "2983526261234ef05e7f77ed7b0068c14a939a41dbca2cb1da1d68cd1b08dbbf",
+  "sig": "BY6lB6iXaLOYGljPJxbroJSxh5dxphd7zXIEXS5M/c2L5R6bqOgPZ7FDnIwiqGJ7zvE8H1dp6o2rvx7kW5bSBw==",
+  "notes": "حذف زر الملاحظة الجانبي",
+  "released_at": "2026-11-24T02:03:12.595Z"
 }
