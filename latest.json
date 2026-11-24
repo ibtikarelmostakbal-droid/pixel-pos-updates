@@ -1,8 +1,8 @@
 {
-  "version": "1.7.18",
+  "version": "1.8.0",
   "bundle": "bundle.json.gz",
-  "sha256": "73d4755a9dece9be129ab312e68789a42bb82f01028d217836d90f8022e80c72",
-  "sig": "gDw8TnWG5PajrLDJaxMXl2EC5tVB9kGuk96/J0Qz4ysc3pbUI0eE24DxOa6Z6Z1bFaa8krtAR6n6VyYrWtprCA==",
-  "notes": "زر خصم النقاط من الفاتورة",
-  "released_at": "2026-11-24T20:34:23.966Z"
+  "sha256": "741148abd7b1234b073b4135e6bd1b620c783d215236291e9608df3d370e376f",
+  "sig": "fdNrJiUcauuqV9hFG93gUgFRv5425fMiDc0EAKkJJ2UVSBjhB/C9DiCVfA3o1fuphpjeM7iix45Xhdg6K34VDQ==",
+  "notes": "بطاقة الولاء بباركود",
+  "released_at": "2026-11-24T20:51:52.197Z"
 }
