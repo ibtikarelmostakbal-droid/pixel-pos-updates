@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
+  "version": "1.6.0",
   "bundle": "bundle.json.gz",
-  "sha256": "deeadb9f6efb548a2f72e5ed80edf9908c07f1b12c461f0608a52d6b5d42c3cc",
-  "sig": "IquLWYozF8fId19bIu9ZNG2B9R+WvouO8EdcvoHorVW6Dwx7ASDIQw7DXMExlON3ZV6ogL/Lp2Z/8XBKSXv2BQ==",
-  "notes": "رقم الطاولة في طلبات الباركود",
-  "released_at": "2026-11-24T00:56:58.182Z"
+  "sha256": "8f5746f8efb20e8c25db07c6e59a1b25985dc02046f75e4b3bc34579eabcd35f",
+  "sig": "bxTyJXD/tuSL7D7d5I3QW34s50KJ76ZrFd1m/evnUYJKPEH/SDiM1Ro/hj84T1S1QzvWsP5atNdGHY10ymFnDQ==",
+  "notes": "إزالة تيليجرام وجمناي",
+  "released_at": "2026-11-24T01:11:11.069Z"
 }
