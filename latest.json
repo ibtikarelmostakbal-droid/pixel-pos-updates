@@ -1,8 +1,8 @@
 {
-  "version": "1.7.12",
+  "version": "1.7.13",
   "bundle": "bundle.json.gz",
-  "sha256": "fcd9947a9271d144d9b6d54cdb56a71357ed3c20ef9b8de0755d4a96e7cdbfa1",
-  "sig": "ltdEgzE2uFW0tkzKX80bm7aNki2UQhoMiLfELdoBgSGqS+vSCBJ8wiR79a96TAJOcyzkKwQkUGLaFjGf+DSyBQ==",
-  "notes": "تفعيل الأحجام/الدبل لكل منتج",
-  "released_at": "2026-11-24T02:16:53.076Z"
+  "sha256": "b329be645a4f64f605d5d0547064dd16aa9de578cb237095671a8a6c58d01acb",
+  "sig": "8EYCXzlR/sablJVcqnw69R5ZF1/5BwPlOQ70nqqKcFoB6S1fW9BHcUz2IckMosQqP+S6lEIU2UHy5TmBsCRLAQ==",
+  "notes": "سعر مخصص لكل حجم",
+  "released_at": "2026-11-24T19:55:48.408Z"
 }
