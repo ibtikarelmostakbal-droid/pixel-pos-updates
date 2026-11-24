@@ -1,8 +1,8 @@
 {
-  "version": "1.7.4",
+  "version": "1.7.5",
   "bundle": "bundle.json.gz",
-  "sha256": "08e4edf3c89b4d16e099bb08d825b40222c2bc7c516040bc59adf64414c0dab0",
-  "sig": "LllrwJT/jICp8HgvNfvI7irtiIGqwGoFCs/oMHfKfvNsbps5njGPbKLneS5yID4wytFvxYMZlzJ/ATxuYgAuDQ==",
-  "notes": "حقل الملاحظة داخل نافذة إضافة للسلة",
-  "released_at": "2026-11-24T01:48:59.706Z"
+  "sha256": "5dd36bec99edf9f2d932fdebebdf6b23c7bab35ac1e94df6e623b84f0d01fb28",
+  "sig": "btyfNf2RBkL9RDk9CHdYybSBrxW/0tGoLn9sgLDQ+xAkzGys4SWUmLBON65pw+0eu95jKdo/DjZUdiF3dZRoBA==",
+  "notes": "الملاحظات تظهر للمطبخ",
+  "released_at": "2026-11-24T01:57:05.363Z"
 }
