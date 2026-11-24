@@ -1,8 +1,8 @@
 {
-  "version": "1.7.7",
+  "version": "1.7.8",
   "bundle": "bundle.json.gz",
-  "sha256": "1a0a145c483b3044bb9fc0c2d34207d4f1e0e98c59df1926407794bea57753d8",
-  "sig": "X/6Rc9z4D1/1IDnrrpIZnJhdg8ntLw+A0wjwYfpGDAEAYMIGwDXw8ZUoEecgsgaHP+SGWRuEF4ea8cFylplYCQ==",
-  "notes": "ملاحظات للويتر والكيوسك وباركود الطاولة",
-  "released_at": "2026-11-24T02:00:16.281Z"
+  "sha256": "c9ed400965ea156989ec16f9e10556793302976587fd47dcac1078da5aec14c9",
+  "sig": "cyd99DJoQgMVIIui7C7VAFw2Hhsc6tsl03RWk5lznupLZDF3EO1fi14gPEklMQL2KsIKlQ9zH/6jidVJTUIzCQ==",
+  "notes": "أحجام المنتجات صغير/وسط/كبير",
+  "released_at": "2026-11-24T02:02:32.181Z"
 }
