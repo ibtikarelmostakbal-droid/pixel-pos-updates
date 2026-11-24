@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "bundle": "bundle.json.gz",
-  "sha256": "741148abd7b1234b073b4135e6bd1b620c783d215236291e9608df3d370e376f",
-  "sig": "fdNrJiUcauuqV9hFG93gUgFRv5425fMiDc0EAKkJJ2UVSBjhB/C9DiCVfA3o1fuphpjeM7iix45Xhdg6K34VDQ==",
-  "notes": "بطاقة الولاء بباركود",
-  "released_at": "2026-11-24T20:51:52.197Z"
+  "sha256": "f617bc48d120e2e0f9adf4f3bb65ad899c80e9e65d0b181ea99370bc67b7e572",
+  "sig": "3y/wDM9aneOexcjb4JVnwwbl4/Z9eNQ5U/Kc12ASlX6yYjI04uMLYD0jFj146aOyqDHtwqMK2kffzoW3unDGCQ==",
+  "notes": "حماية التجربة وتقصيرها",
+  "released_at": "2026-11-24T22:32:54.692Z"
 }
