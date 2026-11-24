@@ -1,8 +1,8 @@
 {
-  "version": "1.7.17",
+  "version": "1.7.18",
   "bundle": "bundle.json.gz",
-  "sha256": "f1a46a1324ff960bcc025923ec7d846daecaa31c675b8e8aaf2309bcc9b21151",
-  "sig": "PkgAlfqUq0JCjjYD7FNaQr1SyDGm5CdjI/vWELZHT/c56m5CZa3acp2aWgY1eep9VQRI5u/3gueL06LUF2SrDQ==",
-  "notes": "أزرار الخيارات في الكيوسك والباركود",
-  "released_at": "2026-11-24T20:26:29.109Z"
+  "sha256": "73d4755a9dece9be129ab312e68789a42bb82f01028d217836d90f8022e80c72",
+  "sig": "gDw8TnWG5PajrLDJaxMXl2EC5tVB9kGuk96/J0Qz4ysc3pbUI0eE24DxOa6Z6Z1bFaa8krtAR6n6VyYrWtprCA==",
+  "notes": "زر خصم النقاط من الفاتورة",
+  "released_at": "2026-11-24T20:34:23.966Z"
 }
