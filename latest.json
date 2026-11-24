@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "bundle": "bundle.json.gz",
-  "sha256": "8f5746f8efb20e8c25db07c6e59a1b25985dc02046f75e4b3bc34579eabcd35f",
-  "sig": "bxTyJXD/tuSL7D7d5I3QW34s50KJ76ZrFd1m/evnUYJKPEH/SDiM1Ro/hj84T1S1QzvWsP5atNdGHY10ymFnDQ==",
-  "notes": "إزالة تيليجرام وجمناي",
-  "released_at": "2026-11-24T01:11:11.069Z"
+  "sha256": "1d6add331a1e85ec1512b7a5cdd9e8596d4e09f2d5b90cd79f599ccaf4e13e84",
+  "sig": "GmfTZAtq32CYnm5IBS5Fko+7/KgGmtYFnFMSS34wZyXwaxAWnXCYDXBh6/pPFnnlCmwxSwRD0q8PNO8gPh8vCg==",
+  "notes": "إعدادات التوصيل ورسوم التوصيل وتسوية السائقين",
+  "released_at": "2026-11-24T01:17:22.371Z"
 }
