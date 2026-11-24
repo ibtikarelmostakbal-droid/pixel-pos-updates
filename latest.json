@@ -1,8 +1,8 @@
 {
-  "version": "1.7.10",
+  "version": "1.7.11",
   "bundle": "bundle.json.gz",
-  "sha256": "f1f0992435189cf6a3135c650f1e9267136173b2abe400393d35f7d348ae03f5",
-  "sig": "3Zv2alE23Fo4TqICDvLwVrDlrCSFjPdh7awkilr4kmSCOC6nrXx8atuojaTYR0CflvCQEDHNs6brlK04gG0wBw==",
-  "notes": "زر الأحجام في صفحة المنتجات",
-  "released_at": "2026-11-24T02:06:55.168Z"
+  "sha256": "6d2a52e3742d8053698b711f6a266b1af2c22cd4a744b1a03b7f1c047f5e8de6",
+  "sig": "lk8VK8TCsRClrMIkQYPGqvRP+0b8Ofk7bS4vqr/7Fxz2bbB1uygzHM2pzxu7dAh7uIoQG7gZyAwuyCb21hMGDw==",
+  "notes": "أحجام ودبل جاهزة من الإعدادات",
+  "released_at": "2026-11-24T02:15:17.455Z"
 }
