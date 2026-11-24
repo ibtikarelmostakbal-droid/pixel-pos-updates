@@ -1,8 +1,8 @@
 {
-  "version": "1.7.11",
+  "version": "1.7.12",
   "bundle": "bundle.json.gz",
-  "sha256": "6d2a52e3742d8053698b711f6a266b1af2c22cd4a744b1a03b7f1c047f5e8de6",
-  "sig": "lk8VK8TCsRClrMIkQYPGqvRP+0b8Ofk7bS4vqr/7Fxz2bbB1uygzHM2pzxu7dAh7uIoQG7gZyAwuyCb21hMGDw==",
-  "notes": "أحجام ودبل جاهزة من الإعدادات",
-  "released_at": "2026-11-24T02:15:17.455Z"
+  "sha256": "fcd9947a9271d144d9b6d54cdb56a71357ed3c20ef9b8de0755d4a96e7cdbfa1",
+  "sig": "ltdEgzE2uFW0tkzKX80bm7aNki2UQhoMiLfELdoBgSGqS+vSCBJ8wiR79a96TAJOcyzkKwQkUGLaFjGf+DSyBQ==",
+  "notes": "تفعيل الأحجام/الدبل لكل منتج",
+  "released_at": "2026-11-24T02:16:53.076Z"
 }
