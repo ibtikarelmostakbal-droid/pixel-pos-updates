@@ -1,8 +1,8 @@
 {
-  "version": "1.7.16",
+  "version": "1.7.17",
   "bundle": "bundle.json.gz",
-  "sha256": "c75c6f05e2b3768dc6e8dbedaf79604cf9d9161ac72c976057c0fe676f3d0339",
-  "sig": "aZMi+6ol6RT1GfDAvgN9KPdb2QW5VWbdxTA7kBWk1k/4OzVJxixVo+BUu3ful0JB6eBI/hYKsSUuVDAhbvBzBw==",
-  "notes": "أزرار اختيار الحجم",
-  "released_at": "2026-11-24T20:24:00.007Z"
+  "sha256": "f1a46a1324ff960bcc025923ec7d846daecaa31c675b8e8aaf2309bcc9b21151",
+  "sig": "PkgAlfqUq0JCjjYD7FNaQr1SyDGm5CdjI/vWELZHT/c56m5CZa3acp2aWgY1eep9VQRI5u/3gueL06LUF2SrDQ==",
+  "notes": "أزرار الخيارات في الكيوسك والباركود",
+  "released_at": "2026-11-24T20:26:29.109Z"
 }
