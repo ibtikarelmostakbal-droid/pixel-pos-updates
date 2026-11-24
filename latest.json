@@ -1,8 +1,8 @@
 {
-  "version": "1.7.3",
+  "version": "1.7.4",
   "bundle": "bundle.json.gz",
-  "sha256": "7e73990bf1663568b8fbdf417e005111f9032c640b08867232382a3d13718b22",
-  "sig": "04l7UoN+X77ktyV7G9JYriFZwwCsM2JKnXyKZW35cdpt0mpxDYj6b8Cmx5+KjkqxvjnP4MAAEsbo5I7rWFCxBA==",
-  "notes": "صور المنتجات أكبر",
-  "released_at": "2026-11-24T01:43:43.330Z"
+  "sha256": "08e4edf3c89b4d16e099bb08d825b40222c2bc7c516040bc59adf64414c0dab0",
+  "sig": "LllrwJT/jICp8HgvNfvI7irtiIGqwGoFCs/oMHfKfvNsbps5njGPbKLneS5yID4wytFvxYMZlzJ/ATxuYgAuDQ==",
+  "notes": "حقل الملاحظة داخل نافذة إضافة للسلة",
+  "released_at": "2026-11-24T01:48:59.706Z"
 }
