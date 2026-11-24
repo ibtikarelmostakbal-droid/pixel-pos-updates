@@ -1,8 +1,8 @@
 {
-  "version": "1.7.9",
+  "version": "1.7.10",
   "bundle": "bundle.json.gz",
-  "sha256": "2983526261234ef05e7f77ed7b0068c14a939a41dbca2cb1da1d68cd1b08dbbf",
-  "sig": "BY6lB6iXaLOYGljPJxbroJSxh5dxphd7zXIEXS5M/c2L5R6bqOgPZ7FDnIwiqGJ7zvE8H1dp6o2rvx7kW5bSBw==",
-  "notes": "حذف زر الملاحظة الجانبي",
-  "released_at": "2026-11-24T02:03:12.595Z"
+  "sha256": "f1f0992435189cf6a3135c650f1e9267136173b2abe400393d35f7d348ae03f5",
+  "sig": "3Zv2alE23Fo4TqICDvLwVrDlrCSFjPdh7awkilr4kmSCOC6nrXx8atuojaTYR0CflvCQEDHNs6brlK04gG0wBw==",
+  "notes": "زر الأحجام في صفحة المنتجات",
+  "released_at": "2026-11-24T02:06:55.168Z"
 }
