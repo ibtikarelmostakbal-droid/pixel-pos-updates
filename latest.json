@@ -1,8 +1,8 @@
 {
-  "version": "1.10.8",
+  "version": "1.10.9",
   "bundle": "bundle.json.gz",
-  "sha256": "99f4dca17f807a34e33af81c048ad7b477a118068e8042c29b763435af22c553",
-  "sig": "21X3EuYIc9VQSNu96X4Yw7ubljaEruokwbO+FM+iVRs4kWsLiIwt74rDBCur50ayRZuuR888cD0WREkyJhVtCQ==",
-  "notes": "باركود نقاط Pixel Wallet على الفاتورة المطبوعة (اختياري)",
-  "released_at": "2026-11-25T21:20:39.365Z"
+  "sha256": "385e5d54c96067fb2941429c7c80e18b8aa43a4155c7c6e143ee9e3f0c6606dd",
+  "sig": "kE9gmwaxkvqIQhmRiSuRa58NmE+0Xu7MEqweB3FDWdqZTPQQtPN9xBhM9A3UCBy112NF/zui+Xzgk5mbnq39CQ==",
+  "notes": "زر استبدال نقاط بطاقة الولاء (Pixel Wallet) في شاشة الكاشير",
+  "released_at": "2026-11-25T23:48:22.710Z"
 }
