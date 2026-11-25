@@ -1,8 +1,8 @@
 {
-  "version": "1.10.2",
+  "version": "1.10.3",
   "bundle": "bundle.json.gz",
-  "sha256": "fed0c638b64e3fbf9fa4c409e3e53278d6f9733da9666f2b0b23d5af9b22ce10",
-  "sig": "X20YMF9AeN/GAzcXryWU5UvbVC/CfzvHCabwk5sHh/xjgJ1QEG7p9S9c5NfeeWzRTOIfPxyvAHs0+7p7XgHSAQ==",
-  "notes": "Kiosk keyboard",
-  "released_at": "2026-11-25T02:54:09.486Z"
+  "sha256": "06a817e6517700d3caa9d41b28fa01686781fc03362301b504a7832cd926ee73",
+  "sig": "Q5LvG40IliLIlNQaZ7Y9HnU+SjGYETbFM0Tr51Ax532U81LtiYhunDP+GPDw+LHNllnPnrtpwVHqXosLGZJ2Cg==",
+  "notes": "Language toggle on kiosk and table pages",
+  "released_at": "2026-11-25T02:55:38.335Z"
 }
