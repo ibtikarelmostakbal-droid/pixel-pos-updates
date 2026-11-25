@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "bundle": "bundle.json.gz",
-  "sha256": "39d48147ecc7475729741794aac04c59c0fac742d944dfec619e566193a1725c",
-  "sig": "PYMh+j22gyBQjo0pod5gfXLkSbgLjzciO/wVnwHghBQlpuvhi549QagfsfPopQZi46F7gvNQ+LFL/PACTp7rBw==",
-  "notes": "English language option",
-  "released_at": "2026-11-24T23:01:42.837Z"
+  "sha256": "aef63937f798ad82539dc0a3ea1c48c3dfa55aa438e0f484ddf503e78db428b8",
+  "sig": "Srss6te8KfBDq2cXxQqrG9YLrsfeSu8nEHKohFXCjaMsa4Fplkt7rPhEEYEmYp7Mq+cfxuo7qngTKGBdqQQnCw==",
+  "notes": "No system popups",
+  "released_at": "2026-11-25T00:32:55.431Z"
 }
