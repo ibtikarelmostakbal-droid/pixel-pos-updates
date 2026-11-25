@@ -1,8 +1,8 @@
 {
-  "version": "1.9.3",
+  "version": "1.10.0",
   "bundle": "bundle.json.gz",
-  "sha256": "01af46e280cefa469388a1d11528626304b33655c7f3a84cf7f7816a5d644f72",
-  "sig": "N9mtRemU8nECAKzah9iSsk8Ysu0YAx5s/y7H48FvKrDsA1AoAP2puooDWfck3t91Hx5Sfags1QVRUZdzk0/PDQ==",
-  "notes": "Category bars",
-  "released_at": "2026-11-25T01:05:53.757Z"
+  "sha256": "48b32b6e842ee865517a310e3f71c06ab43c15a334ecfee70ce908d3cfdeea4e",
+  "sig": "PyB25amuNcHgWeXuMGoyVPrsEWRMIr4wRIpNiV5AlcZirxNBukNBhtyaUJj0kWf1rWQg1jZl71C2XoeGP41eCQ==",
+  "notes": "Online table ordering",
+  "released_at": "2026-11-25T01:25:55.793Z"
 }
