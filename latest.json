@@ -1,8 +1,8 @@
 {
-  "version": "1.9.2",
+  "version": "1.9.3",
   "bundle": "bundle.json.gz",
-  "sha256": "d1fbb8a854b523807e0f4cb39084052e1306d7ef911418974a834274792ecf9c",
-  "sig": "K57A8G170/lAxqPaMq0GKZALtHnkiZJ90lencPe+V3N1mf2ptI2yh486Gm0rIcnFre75r3BeLEE1MZ+Uq2A6Dw==",
-  "notes": "Toolbar layout",
-  "released_at": "2026-11-25T00:52:16.536Z"
+  "sha256": "01af46e280cefa469388a1d11528626304b33655c7f3a84cf7f7816a5d644f72",
+  "sig": "N9mtRemU8nECAKzah9iSsk8Ysu0YAx5s/y7H48FvKrDsA1AoAP2puooDWfck3t91Hx5Sfags1QVRUZdzk0/PDQ==",
+  "notes": "Category bars",
+  "released_at": "2026-11-25T01:05:53.757Z"
 }
