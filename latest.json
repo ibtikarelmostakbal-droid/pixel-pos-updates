@@ -1,8 +1,8 @@
 {
-  "version": "1.10.6",
+  "version": "1.10.7",
   "bundle": "bundle.json.gz",
-  "sha256": "26dc8251632762dd2c379dbe8a3972e808efa87d9e06490280dc15236c3f173a",
-  "sig": "+vayn0OhxTfCRMhpJKAkNwkuIlRtyDmf5/B8Cd3l6DecNzdP1brA1lUAFLV9i1BToRBKclDcFpkMMdZyaTKmAQ==",
-  "notes": "Menu link defaults",
-  "released_at": "2026-11-25T03:11:23.150Z"
+  "sha256": "1d5eee3a6749679819bfa401bd20880bd36b5a62f19ea74f9878f55849343b38",
+  "sig": "ZsrgDJK7VPCrv26KOP3deQTWqaov/U+P6CU9v+bXnoH9RA5X+yp1oHCJuSp9ZSMCRXtVnSFpQlz3sqE/CHvACQ==",
+  "notes": "Waiter images",
+  "released_at": "2026-11-25T03:21:53.792Z"
 }
