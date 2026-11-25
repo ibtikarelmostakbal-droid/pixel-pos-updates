@@ -1,8 +1,8 @@
 {
-  "version": "1.10.0",
+  "version": "1.10.1",
   "bundle": "bundle.json.gz",
-  "sha256": "48b32b6e842ee865517a310e3f71c06ab43c15a334ecfee70ce908d3cfdeea4e",
-  "sig": "PyB25amuNcHgWeXuMGoyVPrsEWRMIr4wRIpNiV5AlcZirxNBukNBhtyaUJj0kWf1rWQg1jZl71C2XoeGP41eCQ==",
-  "notes": "Online table ordering",
-  "released_at": "2026-11-25T01:25:55.793Z"
+  "sha256": "22d342a74075d56654f4d742a51606a96db6b420deab78144ffc5149d59b84b9",
+  "sig": "JNsXvxwSWj463mk+tuvkiHfwL1SpqO5hZvowdxzlhAjRrKPiTUSNO4WQLfEzZWbh7u83j5X5e0gWXXKAzz7cAA==",
+  "notes": "Kiosk cards fix",
+  "released_at": "2026-11-25T02:53:27.348Z"
 }
