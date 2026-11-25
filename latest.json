@@ -1,8 +1,8 @@
 {
-  "version": "1.10.9",
+  "version": "1.10.10",
   "bundle": "bundle.json.gz",
-  "sha256": "385e5d54c96067fb2941429c7c80e18b8aa43a4155c7c6e143ee9e3f0c6606dd",
-  "sig": "kE9gmwaxkvqIQhmRiSuRa58NmE+0Xu7MEqweB3FDWdqZTPQQtPN9xBhM9A3UCBy112NF/zui+Xzgk5mbnq39CQ==",
-  "notes": "زر استبدال نقاط بطاقة الولاء (Pixel Wallet) في شاشة الكاشير",
-  "released_at": "2026-11-25T23:48:22.710Z"
+  "sha256": "3356787ab605972ec105536f08eb6471e8f55991cf2edd9849f315c941becb15",
+  "sig": "3r5YVCvlmwI23KkG+S+GWiYDjZcGAJiVoWP1a27r79Ov/f7960D1ipbJ5S7VQiMISpLrVVyYOekAGnCNKAlsCA==",
+  "notes": "رسالة أوضح عند فشل إرسال البطاقة",
+  "released_at": "2026-11-25T23:56:30.132Z"
 }
