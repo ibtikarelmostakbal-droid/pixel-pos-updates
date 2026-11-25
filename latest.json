@@ -1,8 +1,8 @@
 {
-  "version": "1.10.7",
+  "version": "1.10.8",
   "bundle": "bundle.json.gz",
-  "sha256": "1d5eee3a6749679819bfa401bd20880bd36b5a62f19ea74f9878f55849343b38",
-  "sig": "ZsrgDJK7VPCrv26KOP3deQTWqaov/U+P6CU9v+bXnoH9RA5X+yp1oHCJuSp9ZSMCRXtVnSFpQlz3sqE/CHvACQ==",
-  "notes": "Waiter images",
-  "released_at": "2026-11-25T03:21:53.792Z"
+  "sha256": "99f4dca17f807a34e33af81c048ad7b477a118068e8042c29b763435af22c553",
+  "sig": "21X3EuYIc9VQSNu96X4Yw7ubljaEruokwbO+FM+iVRs4kWsLiIwt74rDBCur50ayRZuuR888cD0WREkyJhVtCQ==",
+  "notes": "باركود نقاط Pixel Wallet على الفاتورة المطبوعة (اختياري)",
+  "released_at": "2026-11-25T21:20:39.365Z"
 }
