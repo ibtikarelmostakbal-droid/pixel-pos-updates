@@ -1,8 +1,8 @@
 {
-  "version": "1.10.4",
+  "version": "1.10.5",
   "bundle": "bundle.json.gz",
-  "sha256": "889447baf40850b045487cca3d5295c199e71001a13da26eb7b0d1551422c294",
-  "sig": "3RCuG7rRhP5zyhOTqjPe5KJAf2J2SeMME9HQcGbmHd/43Y33fuSVx0BLON9xMDeVECB09B1gBJherYR1PiwlCA==",
-  "notes": "Hide advanced links",
-  "released_at": "2026-11-25T03:00:08.055Z"
+  "sha256": "9c9007522f08a9410d9a7ee4bb22969de44a8a630aebf8b261d897aa2b41898b",
+  "sig": "LHzFEpHA34rbWmv5xoLcB1wI6LWqcSl3cr6+FF+qF0e540Y4j1+54hXzg33+ukJ/eirwe8rF9NXf+CBoYeovDA==",
+  "notes": "Menu link simplified",
+  "released_at": "2026-11-25T03:07:25.570Z"
 }
