@@ -1,8 +1,8 @@
 {
-  "version": "1.10.25",
+  "version": "1.10.26",
   "bundle": "bundle.json.gz",
-  "sha256": "3fefa2b0834ab4e13e86d850c4ae04a45da322b8529878f7e839e79c75c73804",
-  "sig": "mIIOL2iN+T+K5dwj+waHZ2SfFldICSVz0v5aE9bsGFCsru+KPVeCZ20Lw/LOjlFIp0oZPqVyANiqkT9H23luDQ==",
-  "notes": "Small cleanups from code review",
-  "released_at": "2026-11-26T13:22:26.450Z"
+  "sha256": "84edbdd8f704ad85e8bbf0c6665885c85484e12539a496ac83bef7e0a066fc16",
+  "sig": "kQNwsFgW+6oUkWLM9YuUfvuop4XKk9fDS0KmhdFtY56KUDiBCi7ffpVURe4hfiwWJ6tX2MQLlQXcTs3sno1lDA==",
+  "notes": "Hold button next to pay",
+  "released_at": "2026-11-26T13:30:05.601Z"
 }
