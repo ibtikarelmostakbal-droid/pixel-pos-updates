@@ -1,8 +1,8 @@
 {
-  "version": "1.10.15",
+  "version": "1.10.16",
   "bundle": "bundle.json.gz",
-  "sha256": "1c6c7989b104eb0b142c84011f4b9caf339747e68df4a841b1aca8cacda76dea",
-  "sig": "D2G0Bz4LJb4YXnLz672JEwhC9lCyeBAQVeExnOryfDrBQRA6Js8RBo9W+lY3zP7R3MaDDxtOEA0A6V+UCY9DCg==",
-  "notes": "Kitchen: number-key bump, auto-hide setting, paid orders cleanup",
-  "released_at": "2026-11-26T01:43:35.894Z"
+  "sha256": "ead2da94c0440cd2691ccc8b73795301f4f28cefdd96ae5d47250dd19752528c",
+  "sig": "Tiw8AepoRyrqkZtZrJ/7A2I3By3z0bQ+cXRMfde/hexm6T1T0AWKCTpaYiWDfWHA3uOpgyaWKoOebyifmOkZDA==",
+  "notes": "Loyalty buttons: Add points / Redeem points",
+  "released_at": "2026-11-26T02:08:10.779Z"
 }
