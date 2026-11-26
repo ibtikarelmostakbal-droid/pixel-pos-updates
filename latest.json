@@ -1,8 +1,8 @@
 {
-  "version": "1.10.18",
+  "version": "1.10.19",
   "bundle": "bundle.json.gz",
-  "sha256": "f1efdba85f754e123f850229ebfabbb5b1a83e5860d39e55383c884b8788df22",
-  "sig": "zAtTRa8IH9f1aOLUF+3dXniaykln1opO3uxldEDWGVA40VsFNer3LDv+XF8qQfbmM9BdO0QHpbjd3o3YkPo/Bw==",
-  "notes": "Solid lime cash button",
-  "released_at": "2026-11-26T02:16:26.596Z"
+  "sha256": "c76e4870d3e1af91cc5076fba437984dc1094a39473837f582b33aad6ffb97e0",
+  "sig": "9B/6z3T9FKfW/Ec3Zg3s1CIZ8aUqLF8y1sTqo0NfzZXGkbOTVcbeJ/OT9t0Zw6LnFrFSn+ijOwfydfFgDN16Bw==",
+  "notes": "Kiosk language resets to cashier language for each new customer",
+  "released_at": "2026-11-26T02:21:36.884Z"
 }
