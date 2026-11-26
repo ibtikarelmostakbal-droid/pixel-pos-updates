@@ -1,8 +1,8 @@
 {
-  "version": "1.10.19",
+  "version": "1.10.20",
   "bundle": "bundle.json.gz",
-  "sha256": "c76e4870d3e1af91cc5076fba437984dc1094a39473837f582b33aad6ffb97e0",
-  "sig": "9B/6z3T9FKfW/Ec3Zg3s1CIZ8aUqLF8y1sTqo0NfzZXGkbOTVcbeJ/OT9t0Zw6LnFrFSn+ijOwfydfFgDN16Bw==",
-  "notes": "Kiosk language resets to cashier language for each new customer",
-  "released_at": "2026-11-26T02:21:36.884Z"
+  "sha256": "11b56d331f4e71e7eae3ac2cc62b0d6c24ca0747f287a7711bc18213b2b9c123",
+  "sig": "xBwY+X7PAeeE6ee8Tv/aaxXJ8/zM/qzIOhDs/OuZ+Hyra4qfvomBQv/vDEgeKr+Ydy7MnlATYZuRV3FTVm/lBw==",
+  "notes": "Own language switch on kitchen screen and waiter tablet",
+  "released_at": "2026-11-26T02:23:34.956Z"
 }
