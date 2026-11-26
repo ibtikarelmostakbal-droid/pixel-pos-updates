@@ -1,8 +1,8 @@
 {
-  "version": "1.10.12",
+  "version": "1.10.13",
   "bundle": "bundle.json.gz",
-  "sha256": "88e60ff37cbaaeaf26f6d6bad016892ee50d781db9957ae60c45849c24f5efdf",
-  "sig": "eJgwfBQ5J3cQe5qpGvFFdeP8DuKrmfBp9ZYIYHIkDEofhuf7NsG/RMZ6YJ3QVFe3hYRt7QDb3QbklnP2InMbCA==",
-  "notes": "Kiosk: tax shown, reset clears note, stock deduction, timeouts",
-  "released_at": "2026-11-26T01:03:44.020Z"
+  "sha256": "c756f7af8eff16f257ae7b1a5a81f0eb9c20e513effafa21faaccff85605bdc6",
+  "sig": "oory27XGiYYq41wtRkc/k5+LCL0k70XffkIucd28lM81jNg4EhvOAmRCsCsHrNdOOdvTgrbb2o0mWqO4P9NgBQ==",
+  "notes": "Table QR: correct prices with options, tax shown, no duplicate orders, walk-in cart kept",
+  "released_at": "2026-11-26T01:33:46.861Z"
 }
