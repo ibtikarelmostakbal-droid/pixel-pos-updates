@@ -1,8 +1,8 @@
 {
-  "version": "1.10.21",
+  "version": "1.10.22",
   "bundle": "bundle.json.gz",
-  "sha256": "d96fc60b39cb6ccd8e22efe81ebe7f43b26113c95d99a5f0c1648bf9c173a9a6",
-  "sig": "Axol1/Aqz2QropSlsMAnVVTZrd50nqalMNRhAyKXjAHaFQRul3figotQi7tM42RsILrH2obbk5DM4x7/AdWBAA==",
-  "notes": "English mode: 120 missing translations, dates, customer notes kept as written",
-  "released_at": "2026-11-26T02:48:53.658Z"
+  "sha256": "75aadc2837506f37c89070f8d36aac6a5a2dfc1b12959a5db3a047d303698f9a",
+  "sig": "7ixx5uuQlEM1h2Wl8mgbQdOfoE74SRaIE8ux5lXEyOI1aQ5TYCJ4z3UYIisfAw3pSRorYsCtqKF6p1acXNbpBg==",
+  "notes": "Fix loyalty redeem button, full order log by date, staff device code for waiter/kitchen",
+  "released_at": "2026-11-26T12:52:46.742Z"
 }
