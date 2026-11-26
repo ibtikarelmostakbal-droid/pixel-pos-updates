@@ -1,8 +1,8 @@
 {
-  "version": "1.10.23",
+  "version": "1.10.24",
   "bundle": "bundle.json.gz",
-  "sha256": "0151df58f2ce903a12299c273b8c7fab3eff8028e2a0ac038e90ce5d1b03f0db",
-  "sig": "+yAe1kR0gkjuUCFjl9ZKlZbiJp+Tm0aIcGWGha2nnWbrSkYjDnmQyrZmDzniF3PaHqaldWxCUv9oHY2Nb6PhDg==",
-  "notes": "Waiter: show option prices and line prices",
-  "released_at": "2026-11-26T13:13:39.024Z"
+  "sha256": "559a10595218712f3c258a35e72cc60d73906480e583960927a2cc4f854a815c",
+  "sig": "2pEWj3Wldc+olF7gmn4kLcocdPe0IusIbP95Wdn4O7JjAzlQqKalwRui/UZ6TgfJrAawLV6/5Vu4YvfdKEtkBg==",
+  "notes": "Waiter: option buttons like cashier",
+  "released_at": "2026-11-26T13:17:16.875Z"
 }
