@@ -1,8 +1,8 @@
 {
-  "version": "1.10.28",
+  "version": "1.10.29",
   "bundle": "bundle.json.gz",
-  "sha256": "9aaeb327ed06e28a652c4d397d602b1bd2eca290a7663c28ea304dafc6fcb95b",
-  "sig": "oScjrpC0KeP80MxZYZloGnjfosEDQMqPlE+I9HnvHH/cBlTgArqXJ5neEHFBCz3B/ktL+r4vZbEjhgS4jeIcCg==",
-  "notes": "Tax invoice: TRN and address on receipt",
-  "released_at": "2026-11-26T16:02:57.435Z"
+  "sha256": "44bd2446c91321edb0d25dd5b1c19550f7acdbe157ebaf52b60988670c00874e",
+  "sig": "cV4kkKMGPnxl8lI9cZunxoRR2KX/UPjL7uF6DKsfrgXho1NRzpD+ZGzHKvh1J+g3PVcUuQfIPZRX4rnnjWJxCg==",
+  "notes": "Wallet settings keep saved numbers; deleted wallets rejected",
+  "released_at": "2026-11-26T16:34:03.841Z"
 }
