@@ -1,8 +1,8 @@
 {
-  "version": "1.10.16",
+  "version": "1.10.17",
   "bundle": "bundle.json.gz",
-  "sha256": "ead2da94c0440cd2691ccc8b73795301f4f28cefdd96ae5d47250dd19752528c",
-  "sig": "Tiw8AepoRyrqkZtZrJ/7A2I3By3z0bQ+cXRMfde/hexm6T1T0AWKCTpaYiWDfWHA3uOpgyaWKoOebyifmOkZDA==",
-  "notes": "Loyalty buttons: Add points / Redeem points",
-  "released_at": "2026-11-26T02:08:10.779Z"
+  "sha256": "4676c945b1e39a64f94501de0caf6549bfb86a01657a6d355a4e916fbefb74b9",
+  "sig": "mp/6eZHJugvaek/03OIy1L24DpTYhNDmTXH50ca6onzmDn3JnjP9XOcX8nF7UZ6GNfzJGIP7UIgMg10xu283Bg==",
+  "notes": "Lime cash-different-amount button",
+  "released_at": "2026-11-26T02:09:54.103Z"
 }
