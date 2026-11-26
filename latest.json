@@ -1,8 +1,8 @@
 {
-  "version": "1.10.10",
+  "version": "1.10.11",
   "bundle": "bundle.json.gz",
-  "sha256": "3356787ab605972ec105536f08eb6471e8f55991cf2edd9849f315c941becb15",
-  "sig": "3r5YVCvlmwI23KkG+S+GWiYDjZcGAJiVoWP1a27r79Ov/f7960D1ipbJ5S7VQiMISpLrVVyYOekAGnCNKAlsCA==",
-  "notes": "رسالة أوضح عند فشل إرسال البطاقة",
-  "released_at": "2026-11-25T23:56:30.132Z"
+  "sha256": "aecf7d3966f2af600074dfea6376854cd69bfbfb8e2a3f4411a61f26cef35251",
+  "sig": "PNk0eeH2miKh/SqbuAh0Vl6VeRNyG6nwjfXbhWKAcxYBlNmoELnShtrNAVUGFsoBj6sEmpX8dUxP/VnUP+AADA==",
+  "notes": "تسريع الحفظ والبيع تحت الضغط (تخزين مجزّأ)، الطباعة بالخلفية، تصغير صور المنتجات",
+  "released_at": "2026-11-26T00:56:12.309Z"
 }
