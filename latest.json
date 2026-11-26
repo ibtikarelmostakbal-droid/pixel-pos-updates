@@ -1,8 +1,8 @@
 {
-  "version": "1.10.24",
+  "version": "1.10.25",
   "bundle": "bundle.json.gz",
-  "sha256": "559a10595218712f3c258a35e72cc60d73906480e583960927a2cc4f854a815c",
-  "sig": "2pEWj3Wldc+olF7gmn4kLcocdPe0IusIbP95Wdn4O7JjAzlQqKalwRui/UZ6TgfJrAawLV6/5Vu4YvfdKEtkBg==",
-  "notes": "Waiter: option buttons like cashier",
-  "released_at": "2026-11-26T13:17:16.875Z"
+  "sha256": "3fefa2b0834ab4e13e86d850c4ae04a45da322b8529878f7e839e79c75c73804",
+  "sig": "mIIOL2iN+T+K5dwj+waHZ2SfFldICSVz0v5aE9bsGFCsru+KPVeCZ20Lw/LOjlFIp0oZPqVyANiqkT9H23luDQ==",
+  "notes": "Small cleanups from code review",
+  "released_at": "2026-11-26T13:22:26.450Z"
 }
