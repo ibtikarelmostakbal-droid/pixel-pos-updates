@@ -1,8 +1,8 @@
 {
-  "version": "1.10.11",
+  "version": "1.10.12",
   "bundle": "bundle.json.gz",
-  "sha256": "aecf7d3966f2af600074dfea6376854cd69bfbfb8e2a3f4411a61f26cef35251",
-  "sig": "PNk0eeH2miKh/SqbuAh0Vl6VeRNyG6nwjfXbhWKAcxYBlNmoELnShtrNAVUGFsoBj6sEmpX8dUxP/VnUP+AADA==",
-  "notes": "تسريع الحفظ والبيع تحت الضغط (تخزين مجزّأ)، الطباعة بالخلفية، تصغير صور المنتجات",
-  "released_at": "2026-11-26T00:56:12.309Z"
+  "sha256": "88e60ff37cbaaeaf26f6d6bad016892ee50d781db9957ae60c45849c24f5efdf",
+  "sig": "eJgwfBQ5J3cQe5qpGvFFdeP8DuKrmfBp9ZYIYHIkDEofhuf7NsG/RMZ6YJ3QVFe3hYRt7QDb3QbklnP2InMbCA==",
+  "notes": "Kiosk: tax shown, reset clears note, stock deduction, timeouts",
+  "released_at": "2026-11-26T01:03:44.020Z"
 }
