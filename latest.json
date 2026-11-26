@@ -1,8 +1,8 @@
 {
-  "version": "1.10.14",
+  "version": "1.10.15",
   "bundle": "bundle.json.gz",
-  "sha256": "6281fbe328f21bbdb4255567598e8738f7975071abaf88e073bbb0a35f14b996",
-  "sig": "Kv56cOmaeiQQFoj6qJnb5QGwpkQItfRfy7z1M7fNeSwYVLaCBZ0X5nvcXJl9Zo+4MDySNnhTHWyKiqbyYs8iBg==",
-  "notes": "Waiter: server-side prices with options, no duplicate sends, table sync before payment, held table fix",
-  "released_at": "2026-11-26T01:37:59.004Z"
+  "sha256": "1c6c7989b104eb0b142c84011f4b9caf339747e68df4a841b1aca8cacda76dea",
+  "sig": "D2G0Bz4LJb4YXnLz672JEwhC9lCyeBAQVeExnOryfDrBQRA6Js8RBo9W+lY3zP7R3MaDDxtOEA0A6V+UCY9DCg==",
+  "notes": "Kitchen: number-key bump, auto-hide setting, paid orders cleanup",
+  "released_at": "2026-11-26T01:43:35.894Z"
 }
