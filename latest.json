@@ -1,8 +1,8 @@
 {
-  "version": "1.10.26",
+  "version": "1.10.27",
   "bundle": "bundle.json.gz",
-  "sha256": "84edbdd8f704ad85e8bbf0c6665885c85484e12539a496ac83bef7e0a066fc16",
-  "sig": "kQNwsFgW+6oUkWLM9YuUfvuop4XKk9fDS0KmhdFtY56KUDiBCi7ffpVURe4hfiwWJ6tX2MQLlQXcTs3sno1lDA==",
-  "notes": "Hold button next to pay",
-  "released_at": "2026-11-26T13:30:05.601Z"
+  "sha256": "8c232b9b6b3ae93b50d6956e18356594198757bfa814d041df7307da3dbb492f",
+  "sig": "zwRCs72MG8DocnQPl+SgM/L74xBbp+k/NYOFzBVk5ZfyQes0K6S1+8LNpyGsC05XD9PyM66cyxuZF/pnCXRuCQ==",
+  "notes": "Self-order wallet payment by country",
+  "released_at": "2026-11-26T14:01:32.995Z"
 }
