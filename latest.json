@@ -1,8 +1,8 @@
 {
-  "version": "1.10.27",
+  "version": "1.10.28",
   "bundle": "bundle.json.gz",
-  "sha256": "8c232b9b6b3ae93b50d6956e18356594198757bfa814d041df7307da3dbb492f",
-  "sig": "zwRCs72MG8DocnQPl+SgM/L74xBbp+k/NYOFzBVk5ZfyQes0K6S1+8LNpyGsC05XD9PyM66cyxuZF/pnCXRuCQ==",
-  "notes": "Self-order wallet payment by country",
-  "released_at": "2026-11-26T14:01:32.995Z"
+  "sha256": "9aaeb327ed06e28a652c4d397d602b1bd2eca290a7663c28ea304dafc6fcb95b",
+  "sig": "oScjrpC0KeP80MxZYZloGnjfosEDQMqPlE+I9HnvHH/cBlTgArqXJ5neEHFBCz3B/ktL+r4vZbEjhgS4jeIcCg==",
+  "notes": "Tax invoice: TRN and address on receipt",
+  "released_at": "2026-11-26T16:02:57.435Z"
 }
