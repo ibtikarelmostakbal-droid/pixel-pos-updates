@@ -1,8 +1,8 @@
 {
-  "version": "1.10.20",
+  "version": "1.10.21",
   "bundle": "bundle.json.gz",
-  "sha256": "11b56d331f4e71e7eae3ac2cc62b0d6c24ca0747f287a7711bc18213b2b9c123",
-  "sig": "xBwY+X7PAeeE6ee8Tv/aaxXJ8/zM/qzIOhDs/OuZ+Hyra4qfvomBQv/vDEgeKr+Ydy7MnlATYZuRV3FTVm/lBw==",
-  "notes": "Own language switch on kitchen screen and waiter tablet",
-  "released_at": "2026-11-26T02:23:34.956Z"
+  "sha256": "d96fc60b39cb6ccd8e22efe81ebe7f43b26113c95d99a5f0c1648bf9c173a9a6",
+  "sig": "Axol1/Aqz2QropSlsMAnVVTZrd50nqalMNRhAyKXjAHaFQRul3figotQi7tM42RsILrH2obbk5DM4x7/AdWBAA==",
+  "notes": "English mode: 120 missing translations, dates, customer notes kept as written",
+  "released_at": "2026-11-26T02:48:53.658Z"
 }
