@@ -1,8 +1,8 @@
 {
-  "version": "1.10.22",
+  "version": "1.10.23",
   "bundle": "bundle.json.gz",
-  "sha256": "75aadc2837506f37c89070f8d36aac6a5a2dfc1b12959a5db3a047d303698f9a",
-  "sig": "7ixx5uuQlEM1h2Wl8mgbQdOfoE74SRaIE8ux5lXEyOI1aQ5TYCJ4z3UYIisfAw3pSRorYsCtqKF6p1acXNbpBg==",
-  "notes": "Fix loyalty redeem button, full order log by date, staff device code for waiter/kitchen",
-  "released_at": "2026-11-26T12:52:46.742Z"
+  "sha256": "0151df58f2ce903a12299c273b8c7fab3eff8028e2a0ac038e90ce5d1b03f0db",
+  "sig": "+yAe1kR0gkjuUCFjl9ZKlZbiJp+Tm0aIcGWGha2nnWbrSkYjDnmQyrZmDzniF3PaHqaldWxCUv9oHY2Nb6PhDg==",
+  "notes": "Waiter: show option prices and line prices",
+  "released_at": "2026-11-26T13:13:39.024Z"
 }
